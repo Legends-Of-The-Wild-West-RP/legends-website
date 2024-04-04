@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-  background-color: rgb(32, 32, 32);
+  background-color: rgb(23,22,21);
 }
 
 /*Thank you kind stack overflow stranger for informing me about margin and padding. This fixed the annoying horizontal nav bar issue on the about me page*/
